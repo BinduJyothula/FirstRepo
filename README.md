@@ -1,4 +1,4 @@
 # FirstRepo
 This is my first repository 
 <br>
-Author: Bindu Jyothula
+Author: Bindu Sahitha Jyothula
